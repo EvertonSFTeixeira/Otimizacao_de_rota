@@ -10,7 +10,6 @@ O conjunto de dados utilizado neste projeto é fornecido pela Comissão de Táxi
  - Descrição dos arquivos:
     - train.csv - Conjunto de treinamento (1.458.644 registros)
     - test.csv - Conjunto de testes (625.134 registros)
-    - sample_submission.csv - Arquivo de envio de exemplo
 
 ## Campos de Dados
 - id - Identificador exclusivo para cada viagem
