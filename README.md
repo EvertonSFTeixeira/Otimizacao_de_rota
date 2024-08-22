@@ -1,3 +1,4 @@
+![New_York_Taxi](https://github.com/user-attachments/assets/b03276d8-85ee-4741-85f8-b90e092bbd10)
 # Otimização de Rotas de Transporte - NYC Taxi Trip Duration
 
 ## Descrição do Projeto
