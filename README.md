@@ -43,4 +43,5 @@ Para rodar este projeto, você precisará ter os seguintes pacotes instalados:
  - XGBoost
  - Matplotlib
  - Seaborn
- - haversine
+ - Haversine
+ - Os
